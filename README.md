@@ -5,7 +5,7 @@
 - 🔭 I mainly focus on automation (binary analysis, autopwn, recon, etc.)
 - 🌱 In CTFs, I do Pwn and Crypto
 - ⚡ I do pentest as well
-- 🥅 2021 Goals: get a master degree from ASU, do well in CTFs, and get Hack The Box Guru rank
+- 🥅 2021 Goals: get a master degree from ASU, automate everything, dominate CTFs, and get Hack The Box Guru rank
 
 ---
 
