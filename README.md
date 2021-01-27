@@ -2,8 +2,8 @@
 
 ## I do computer security research
 
-- 🔭 I mainly focus on automation (binary analysis, autopwn, recon, etc.)
-- 🌱 I play CTFs regularly
+- 🤖 I mainly focus on automation (binary analysis, autopwn, recon, etc.)
+- 🚩 I play CTFs regularly
 - ⚡ I do pentest as well
 - 🥅 2021 Goals: get a master degree from ASU, dominate CTFs, and get Hack The Box Guru rank
 
