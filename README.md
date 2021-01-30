@@ -22,6 +22,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ASU CSE 545 PCTF Playbook](https://www.ret2basic.com/blog/asu-cse-545-pctf-playbook)
+- [CTF Pwnbox Setup Script](https://www.ret2basic.com/blog/ctf-pwnbox-setup-script)
 - [Security Research Learning Resources](https://www.ret2basic.com/blog/ctf-learning-resources)
 - [CTF Pwn ret2syscall Cheat Sheet](https://www.ret2basic.com/blog/ctf-pwn-ret2syscall-cheat-sheet)
 - [Jekyll LaTeX Integration](https://www.ret2basic.com/blog/jekyll-latex-integration)
