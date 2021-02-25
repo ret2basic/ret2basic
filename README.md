@@ -2,10 +2,13 @@
 
 ## I do computer security research
 
-- 🤖 I mainly focus on automation (binary analysis, autopwn, recon, etc.)
-- 🚩 I play CTFs regularly
-- ⚡ I do pentest as well
-- 🥅 2021 Goals: get a master degree from ASU, dominate CTFs, and get Hack The Box Guru rank
+- 🤖 Becoming "The Automator" (binary analysis, autopwn, recon, etc.)
+- 🚩 Play CTF regularly
+- 🥅 2021 goals:
+- [ ] Full completion on pwn.college
+- [ ] Full completion on CryptoHack
+- [ ] Top 10 on bugbountyhunter.com
+- [ ] Hack The Box Guru
 
 ---
 
@@ -13,8 +16,8 @@
 
 <!-- PROJECTS:START -->
 - [Pwnie Island](https://ctftime.org/team/117561)
+- [House of Writeup](https://github.com/Pwnie-Island/House-of-Writeup)
 - [Crypto Wiki](https://crypto.ret2basic.com)
-- [House of Writeup](https://github.com/ret2basic/House-of-Writeup)
 <!-- PROJECTS:END -->
 
 ---
