@@ -5,6 +5,7 @@
 - 🤖 Becoming "The Automator" (binary analysis, autopwn, recon, etc.)
 - 🚩 Play CTF regularly
 - 🥅 2021 goals:
+
 - [ ] Full completion on pwn.college
 - [ ] Full completion on CryptoHack
 - [ ] Top 10 on bugbountyhunter.com
