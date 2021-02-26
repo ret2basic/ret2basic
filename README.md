@@ -8,8 +8,10 @@
 
 - [ ] Full completion on pwn.college
 - [ ] Full completion on CryptoHack
-- [ ] Top 10 on bugbountyhunter.com
 - [ ] Hack The Box Guru
+- [ ] Top 50 on bugbountyhunter.com
+
+- I will eat a keyboard if any goal is not reached by the end of this year. You pick size.
 
 ---
 
