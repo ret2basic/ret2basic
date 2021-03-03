@@ -2,7 +2,7 @@
 
 ## I do computer security research
 
-- 🤖 Becoming "The Automator" (binary analysis, autopwn, recon, etc.)
+- 🤖 Pwn and Crypto
 - 🚩 Play CTF regularly
 - 🥅 2021 goals:
 
@@ -19,8 +19,7 @@
 
 <!-- PROJECTS:START -->
 - [Pwnie Island](https://ctftime.org/team/117561)
-- [House of Writeup](https://github.com/Pwnie-Island/House-of-Writeup)
-- [Crypto Wiki](https://crypto.ret2basic.com)
+- [House of Writeup](ctfwriteup.com)
 <!-- PROJECTS:END -->
 
 ---
