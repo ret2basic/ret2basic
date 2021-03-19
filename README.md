@@ -8,6 +8,7 @@
 
 - [ ] Full completion on pwn.college
 - [ ] Full completion on CryptoHack
+- [ ] Full completion on PentesterLab
 - [ ] Hack The Box Guru
 - [ ] Top 50 on bugbountyhunter.com
 
