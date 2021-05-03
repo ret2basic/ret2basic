@@ -1,4 +1,4 @@
-### Hi there, I'm Chenyang - aka [ret2basic] 👋
+### Hi there, I'm Chenyang - aka ret2basic 👋
 
 ## I do computer security research
 
