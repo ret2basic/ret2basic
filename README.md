@@ -12,7 +12,7 @@
 - [ ] Top 100 on bugbountyhunter.com
 - [ ] Hack The Box Pro Hacker
 
-- I'll eat a keyboard if any goal is not reached by the end of this year. You pick size.
+- I'll eat a keyboard if any goal is not completed by the end of this year. You pick size.
 
 ---
 
