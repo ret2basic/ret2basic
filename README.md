@@ -1,15 +1,16 @@
-### Hi there, I'm Chenyang - aka ret2basic 👋
+## Hi there, I'm Chenyang - aka ret2basic 👋
 
-## I do computer security research
+### I do computer security research
 
 - 🤖 Pwn and Crypto
 - 🚩 Play CTFs regularly
-- 🥅 2021 goals:
 
-- [ ] Full completion on pwn.college
-- [ ] Full completion on CryptoHack
-- [ ] Full completion on PentesterLab
-- [ ] Top 100 on bugbountyhunter.com
+### 2021 goals:
+
+- [ ] pwn.college blue belt
+- [ ] Cryptohack top 100
+- [ ] PentesterLab all badges
+- [ ] BugBountyHunter top 100
 - [ ] Hack The Box Pro Hacker
 
 - I'll eat a keyboard if any goal is not completed by the end of this year. You pick size.
