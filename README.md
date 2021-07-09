@@ -2,7 +2,7 @@
 
 ### I do computer security research
 
-- 🤖 Pwn and Crypto
+- 🤖 Pwn and Crypto (and Web, still learning)
 - 🚩 Play CTFs regularly
 
 ### 2021 goals:
@@ -10,7 +10,6 @@
 - [ ] pwn.college blue belt
 - [ ] Cryptohack top 100
 - [ ] PentesterLab all badges
-- [ ] BugBountyHunter top 100
 - [ ] Hack The Box Pro Hacker
 
 ---
