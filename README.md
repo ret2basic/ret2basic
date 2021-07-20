@@ -7,10 +7,10 @@
 
 ### 2021 goals:
 
-- [ ] pwn.college blue belt
-- [ ] Cryptohack top 100
+- [ ] Hack The Box Elite Hacker
 - [ ] PentesterLab all badges
-- [ ] Hack The Box Pro Hacker
+- [ ] Cryptohack top 100
+- [ ] pwn.college blue belt
 
 ---
 
