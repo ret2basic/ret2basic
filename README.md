@@ -2,8 +2,8 @@
 
 ### I do computer security research
 
-- 🤖 Pwn and Crypto (and Web, still learning)
-- 🚩 Play CTFs regularly
+- I am a CTF player.
+- I do Pwn and Crypto (and Web, still learning).
 
 ### 2021 goals:
 
