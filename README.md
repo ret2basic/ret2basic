@@ -1,11 +1,11 @@
 ## Hi there, I'm Chenyang - aka ret2basic 👋
 
-### I do computer security research
+### What I Do
 
 - I am a CTF player.
 - I do Pwn and Crypto (and Web, still learning).
 
-### 2021 goals:
+### 2021 Goals:
 
 - [ ] pwn.college blue belt
 - [ ] Cryptohack top 100
