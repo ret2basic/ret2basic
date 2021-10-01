@@ -1,16 +1,9 @@
-## Hi there, I'm Chenyang - aka ret2basic 👋
+## Hi there, I'm ret2basic
 
 ### What I Do
 
 - I am a CTF player.
 - I do Pwn and Crypto (and Web, still learning).
-
-### 2021 Goals:
-
-- [ ] pwn.college blue belt
-- [ ] Cryptohack top 100
-- [ ] PentesterLab all badges
-- [ ] Hack The Box Guru rank
 
 ---
 
