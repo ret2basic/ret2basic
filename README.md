@@ -10,8 +10,8 @@
 ### 📺 Latest Projects
 
 <!-- PROJECTS:START -->
-- [House of Note](https://www.ctfnote.com)
-- [House of Writeup](https://www.ctfwriteup.com)
+- [ctfnote.com](https://www.ctfnote.com)
+- [ctfwriteup.com](https://www.ctfwriteup.com)
 <!-- PROJECTS:END -->
 
 ---
