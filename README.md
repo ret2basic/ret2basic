@@ -1,11 +1,11 @@
-# About Me
+## About Me
 
-## What I Do
+### What I Do
 
 - I am a CTF player
 - I do Pwn and Crypto (and Web, still learning)
 
-## Portfolio Projects
+### Portfolio Projects
 
 <!-- PROJECTS:START -->
 - [From Nand to Tetris](https://github.com/ret2basic/From-Nand-to-Tetris)
