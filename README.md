@@ -3,7 +3,7 @@
 ### What I Do
 
 - I am a CTF player
-- I do Pwn and Crypto (and Web, still learning)
+- I do Pwn, Crypto, and Pentest (and Web, still learning)
 
 ### Portfolio Projects
 
