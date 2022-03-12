@@ -2,12 +2,11 @@
 
 ### whoami
 
-- I am a CTF player
-- I do Pwn, Crypto, and Pentest (and Web, still learning)
+- I study computer security.
+- I am a CTF player (Pwn + Crypto + Web).
+- I am interested in programming language / static program analysis.
 
 ### Todo
 
-- [ ] From Nand to Tetris
-- [ ] CSAPP Labs
-- [ ] xv6
-- [ ] TCP Labs
+- [ ] nand2tetris
+- [ ] Lox
