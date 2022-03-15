@@ -3,8 +3,8 @@
 ### whoami
 
 - I study computer security.
-- I am a CTF player (Pwn + Crypto + Web).
-- I am interested in programming language / static program analysis.
+- I am a CTF player (Crypto and Pwn).
+- I am interested in programming language and static program analysis.
 
 ### Todo
 
