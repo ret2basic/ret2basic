@@ -9,4 +9,6 @@
 ### Todo
 
 - [ ] nand2tetris
-- [ ] Lox
+- [ ] angr-ctf
+- [ ] caveman
+- [ ] pip
