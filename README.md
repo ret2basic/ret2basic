@@ -8,6 +8,6 @@
 
 ### Todo
 
-- [ ] nand2tetris
 - [ ] AutomateAllTheThings
+- [ ] nand2tetris
 - [ ] pip
