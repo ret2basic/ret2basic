@@ -9,6 +9,5 @@
 ### Todo
 
 - [ ] nand2tetris
-- [ ] angr-ctf
-- [ ] caveman
+- [ ] AutomateAllTheThings
 - [ ] pip
