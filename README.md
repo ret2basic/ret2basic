@@ -9,5 +9,5 @@
 ### Todo
 
 - [ ] AutomateAllTheThings
-- [ ] nand2tetris
+- [x] nand2tetris
 - [ ] pip
