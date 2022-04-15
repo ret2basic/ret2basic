@@ -9,6 +9,6 @@
 ### Todo
 
 - [x] Burp Bind Shell
-- [ ] PIP
-- [ ] nand2tetris
+- [x] nand2tetris
+- [ ] Caveman
 - [ ] AutomateAllTheThings
