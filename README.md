@@ -2,13 +2,13 @@
 
 ### whoami
 
-- I study computer security.
-- I am a CTF player (Crypto and Pwn).
-- I am interested in PL and program analysis.
+- I am into pentest/red teaming and DeFi code audit.
+- I am OSCP, CRTO, eCPPT, eCXD.
+- Learning malware development, DeFi and web security.
 
-### Todo
+### 2022 Todo
 
-- [x] nand2tetris
-- [x] Burp Bind Shell
-- [ ] Caveman
-- [ ] AutomateAllTheThings
+- [ ] CRTP
+- [ ] Sektor7 courses
+- [ ] Ethernaut
+- [ ] OSWE
