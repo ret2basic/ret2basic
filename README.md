@@ -11,4 +11,4 @@
 - [ ] CRTP
 - [ ] Sektor7 courses
 - [ ] Ethernaut
-- [ ] OSWE
+- [ ] OSEP
