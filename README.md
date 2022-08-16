@@ -2,9 +2,9 @@
 
 ### whoami
 
-- I am into pentest/red teaming and DeFi code audit.
+- I am into blockchain security and pentest/red teaming.
 - I am OSCP, CRTO, eCPPT, eCXD.
-- Learning malware development, DeFi and web security.
+- Learning Solidity code audit and malware development.
 
 ### 2022 Todo
 
