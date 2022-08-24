@@ -8,10 +8,12 @@
 
 ### 2022 Todo
 
+- [x] CRTO
+- [ ] CRTO II
 - [ ] CRTP
 - [x] Sektor7 MalDev Essentials
 - [ ] Sektor7 MalDev Intermediate
-- [ ] Sektor 7 Windows Evasion
+- [ ] Sektor7 Windows Evasion
 - [ ] Ethernaut
 - [ ] Capture the Ether
 - [ ] Damn Vulnerable DeFi
