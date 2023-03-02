@@ -9,21 +9,17 @@
   - eCPPT
   - eCXD
 
-## 2022 Todo
+## 2023 Todo
 
-### Smart Contract Audit
+### EVM Audit
 
-- [ ] [Smart Contract Engineer Course](https://www.smartcontract.engineer/leaderboard)
-- [ ] [Udemy "Ethereum and Solidity" Course](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
-- [ ] [Ethernaut](https://www.ctfwriteup.com/smart-contract/ethernaut)
-- [ ] [Capture the Ether]()
-- [ ] [Damn Vulnerable DeFi]()
+- [ ] Build a Uniswap V3 clone
+- [ ] Paradigm CTF 2022 review
+- [ ] ACE Paradigm CTF 2023
 
 ### Red Teaming
 
-- [ ] CRTP
-- [x] CRTO
 - [ ] CRTO II
-- [x] Sektor7 MalDev Essentials
 - [ ] Sektor7 MalDev Intermediate
 - [ ] Sektor7 Windows Evasion
+- [ ] Burp Suite Certified Practitioner
