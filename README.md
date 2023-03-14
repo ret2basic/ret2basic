@@ -13,8 +13,8 @@
 
 ### EVM Audit
 
-- [ ] Build a Uniswap V3 clone
-- [ ] Paradigm CTF 2022 review
+- [ ] Build uniswapv3clone.com
+- [ ] Solve Paradigm CTF 2022 challenges
 - [ ] ACE Paradigm CTF 2023
 
 ### Red Teaming
