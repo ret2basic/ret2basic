@@ -2,12 +2,9 @@
 
 ## whoami
 
-- I work as a **smart contract auditor** and I learn red teaming in spare time as a hobby.
-- I hold the following certs:
-  - OSCP
-  - CRTO
-  - eCPPT
-  - eCXD
+- I work as a **smart contract auditor** and I still study red teaming in my spare time as a hobby.
+- I hold the following red teaming certs: OSCP, CRTO, eCPPT, eCXD
+- UCLA mathematics, ASU cybersecurity
 
 ## Portfolio
 
@@ -19,14 +16,4 @@
   - [x] Ethernaut
   - [x] Capture the Ether
   - [ ] Damn Vulnerable DeFi
-- In progress: I am building Uniswap V3 clone at https://uniswapv3clone.com.
-
-## 2023 Todo
-
-- [ ] Win at least one Secureum RACE
-- [ ] Join Oak Security
-- [ ] Join Spearbit
-- [ ] Burp Suite Certified Practitioner
-- [ ] CRTO II
-- [ ] Sektor7 MalDev Intermediate
-- [ ] Sektor7 Windows Evasion
+- In progress: I am building an Uniswap V3 clone at https://uniswapv3clone.com.
