@@ -10,10 +10,10 @@
 
 - I write technical articles at https://ctfnote.com. Here are my best writings:
   - [x] Secureum
-  - [x] Beyond Secureum
+  - [ ] Beyond Secureum
   - [x] EVM
 - My CTF writeup collection is at https://ctfwriteup.com. Here are my best writings:
   - [x] Ethernaut
   - [x] Capture the Ether
-  - [x] Damn Vulnerable DeFi
+  - [ ] Damn Vulnerable DeFi
 - In progress: I am building an Uniswap V3 clone at https://uniswapv3clone.com.
