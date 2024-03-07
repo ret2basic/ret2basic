@@ -8,7 +8,6 @@ I work as a **web3 security researcher** and I do game hacking and red teaming i
 
 - Paradigm CTF 2023 11th place
 - Blaz CTF 2023 4th place
-- Numen CTF 2023 4th place
 - MetaTrust CTF 2023 6th place
 - QuillCTF Dubai 2023 5th place
 - QuillCTF MetaToken contest 3rd place
