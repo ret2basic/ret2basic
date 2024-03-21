@@ -6,11 +6,11 @@ I work as a **web3 security researcher** and I do game hacking and red teaming i
 
 ## CTF rankings
 
+- **Ethernaut CTF 2024 9th place**
 - **Paradigm CTF 2023 11th place**
 - **Blaz CTF 2023 4th place**
 - MetaTrust CTF 2023 6th place
 - QuillCTF Dubai 2023 5th place
-- QuillCTF MetaToken contest 3rd place
 - Flashbots MEV-Share CTF 2023 all challenges solved
 
 ## Secureum RACEs rankings
