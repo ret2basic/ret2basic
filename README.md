@@ -2,7 +2,7 @@
 
 ## whoami
 
-I work as a **ZK security researcher** and I do game hacking and red teaming in my spare time as a hobby.
+I work as a **ZK security researcher** and **Solidity smart contract auditor**. I do game hacking and red teaming in my spare time as a hobby.
 
 ## CTF rankings
 
