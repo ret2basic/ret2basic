@@ -6,8 +6,9 @@ I work as a **ZK security researcher** and I do game hacking and red teaming in 
 
 ## CTF rankings
 
-- **Ethernaut CTF 2024 9th place**
+- **onlyPwner all challenges solved**
 - **Paradigm CTF 2023 11th place**
+- **Ethernaut CTF 2024 9th place**
 - **Blaz CTF 2023 4th place**
 - MetaTrust CTF 2023 6th place
 - QuillCTF Dubai 2023 5th place
